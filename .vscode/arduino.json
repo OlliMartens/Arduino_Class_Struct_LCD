@@ -1,0 +1,7 @@
+{
+    "board": "arduino:avr:uno",
+    "port": "COM6",
+    "programmer": "arduinoisp",
+    "output": "../ArduinoOutput",
+    "sketch": "Code\\Class_Struct_LCD\\Class_Struct_LCD.ino"
+}
