@@ -1,6 +1,0 @@
-{
-    "board": "arduino:avr:uno",
-    "port": "COM6",
-    "sketch": "Code\\Class_Struct_LCD\\Class_Struct_LCD.ino",
-    "output": "./build"
-}
